@@ -1,6 +1,8 @@
 # ols_test_breusch_pagan
 Breusch pagan test Use ols_test_breusch_pagan (olsrr) With (In) R Software
 
+https://www.youtube.com/watch?v=HNzO6yoGdpA
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
